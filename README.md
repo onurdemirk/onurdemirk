@@ -30,6 +30,6 @@ I'm open to new opportunities where I can grow as a developer and contribute to 
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/onurdemirkaya/)
+[LinkedIn](https://www.linkedin.com/in/onurdemirkaya/)
 
 **Open to:** Full-time roles, freelance projects, and open-source collaborations!
