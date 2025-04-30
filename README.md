@@ -1,16 +1,15 @@
 # Hi, I'm Onur.
 
-I'm a **Front-End Developer** specialized in **React & JavaScript**, transitioning from nearly four years as an **SAP CX Technical Consultant**
+I'm a **Full-Stack Developer** specializing in **React & Node.js**, transitioning from **4 years of SAP CX Technical Consulting** to building modern web applications.  
+Passionate about clean code, user-centric design, and solving real-world problems.
 
 ---
 
 ## About Me
 
-I successfully completed the front-end curriculum of [The Odin Project](https://www.theodinproject.com/)
+- Completed **1,000+ hours** of hands-on training via [The Odin Project](https://www.theodinproject.com/) (Full-Stack Path).
 
-I'm also actively learning **Node.js** to expand my back-end development capabilities.
-
-My previous consulting background sharpened my problem-solving skills and adaptability. Now, I'm excited to bring these qualities into front-end development, where I craft user-centric web interfaces.
+My previous consulting background sharpened my problem-solving skills and adaptability. Now, I'm excited to bring these qualities into Full-Stack development, where I craft user-centric web interfaces.
 
 I'm open to new opportunities where I can grow as a developer and contribute to innovative projects.
 
@@ -18,10 +17,12 @@ I'm open to new opportunities where I can grow as a developer and contribute to 
 
 ## Technical Skills & Technologies
 
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)  
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)  
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 
 ---
@@ -32,8 +33,4 @@ I'm open to new opportunities where I can grow as a developer and contribute to 
 - [LinkedIn](https://www.linkedin.com/in/onurdemirkaya/)
 - Email: onurdemirk@gmail.com
 
-Feel free to reach out if you have an exciting project or opportunity in mind!
-
----
-
-*Let's build something amazing together.*
+**Open to:** Full-time roles, freelance projects, and open-source collaborations!
