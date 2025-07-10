@@ -1,15 +1,10 @@
 # Hi, I'm Onur.
 
-I'm a **Full-Stack Developer** specializing in **React & Node.js**, transitioning from **4 years of SAP CX Technical Consulting** to building modern web applications.  
-Passionate about clean code, user-centric design, and solving real-world problems.
-
 ---
 
 ## About Me
 
 Completed **1,000+ hours** of hands-on training via [The Odin Project](https://www.theodinproject.com/) (Full-Stack Path).
-
-My previous consulting background sharpened my problem-solving skills and adaptability. Now, I'm excited to bring these qualities into Full-Stack development, where I craft user-centric web interfaces.
 
 I'm open to new opportunities where I can grow as a developer and contribute to innovative projects.
 
